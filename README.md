@@ -17,7 +17,7 @@
 ## Funcionalidades Principais
 
 - **Conversão de Moedas em Tempo Real:** O usuário pode escolher entre diferentes pares de moedas (como Real para Dólar, Euro para Real, etc.) e inserir um valor para conversão.
-- **Integração com API Externa:** A aplicação utiliza a API AwesomeAPI para obter as cotações atualizadas das moedas.
+- **Integração com API Externa:** A aplicação consome a API AwesomeAPI para obter as cotações atualizadas das moedas.
 - **Interface Simples e Intuitiva:** A interface permite que o usuário selecione a moeda de origem e destino através de botões de rádio e insira o valor a ser convertido.
 
 ## Estrutura da Aplicação
